@@ -5,6 +5,7 @@
         <img src="./docs/images/icon.png" width="200" height="200"/>
     </a>
 </div>
+<br>
 <p align="center">
     <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5" alt="HTML Badge" /></a>
     <br>
