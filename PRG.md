@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** HTML <br>
 **Category:** Utility Web Page <br>
-**Order:** 26 <br>
+**Order:** 25 <br>
 
 ## Parameters
 
